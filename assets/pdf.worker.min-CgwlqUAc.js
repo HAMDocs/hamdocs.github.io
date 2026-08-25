@@ -1,1 +1,0 @@
-var e=`/Program%20Files/Git/preceptor-ia-app/assets/pdf.worker.min-iDqQPrd3.mjs`;export{e as default};
