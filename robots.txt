@@ -1,0 +1,3 @@
+# Os links de entrega das equipes não devem ser indexados por buscadores.
+User-agent: *
+Disallow: /
