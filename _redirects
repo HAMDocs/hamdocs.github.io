@@ -1,0 +1,2 @@
+# SPA: toda rota cai no index.html (senão /entrega/<token> aberto direto dá 404)
+/*  /index.html  200
